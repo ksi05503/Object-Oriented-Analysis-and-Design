@@ -1,5 +1,1 @@
-# SoftwareV-V
-SoftwareV&amp;V 10조
-
-
-pull request test 10th time
+# OOAD DVMS(Distributed Virtual Machine System) 팀 프로젝트
