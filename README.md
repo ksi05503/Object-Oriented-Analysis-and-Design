@@ -17,16 +17,19 @@ MS129 DVM은 현재 DVM이 판매하는 음료수를 판매하는 기능 뿐만 
 7|[3rd Cycle Development.pdf](https://github.com/ksi05503/Object-Oriented-Analysis-and-Design/files/7126212/3rd.Cycle.Development.pdf)  
 8|[실행메뉴얼 및 데모영상.pdf](https://github.com/ksi05503/Object-Oriented-Analysis-and-Design/files/7126213/default.pdf)  
 
-### 개발환경: JAVA / GUI (Swing). / Socket / JUnit / CTip 
+### 개발환경
+JAVA / GUI (Swing) / Socket / JUnit / CTip 
 
-**Project Environment**
-
+### Project Environment
 * CTIP 환경
 * JUnit 기반 단위테스트 진행
 * 시나리오에 따른 통합테스트 진행
 * Slack 및 Redmine으로 **소프트웨어 V&V 팀**과 일감 공유
 * OOAD 단계에 따른 문서화 및 UML tool 로 다이어그램 명세
 
+
+### 데모 영상
+https://youtu.be/fuhzgaLJMx4
 
 
 
